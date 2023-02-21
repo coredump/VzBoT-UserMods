@@ -72,8 +72,9 @@ The important part in this case, is the contact between steel ball and dowels:
 >Furthermore, for balanced stiffness in all directions, the contact force vectors should intersect the plane of coupling action at an angle of 45&deg;  
 <cite>&mdash; (Slocum, A. H. (Design of three-groove kinematic couplings [(1992)][8])</cite>
 
-So since what we have there is a right triangle, the distance between dowel centers in relation to the ball diameter is given by the hypotenuse for the triangle formed between the three circle centers: $d = \sqrt{a^2+b^2}$ and since both sides are equal we have $d = \sqrt{2 \cdot s^2}$ where $s$ is the side/distance between dowel and ball centers, and since we can calculate that with $d = \sqrt{2\cdot(\frac{bd}{2}+\frac{dd}{2})^2}$ 
-where $bd$ and $dd$ are, respectively, *ball diameter* and *dowel diameter*. In the case of 10mm balls and 3mm dowels: 
+So since what we have there is a right triangle, the distance between dowel centers in relation to the ball diameter is given by the hypotenuse for the triangle formed between the three circle centers: $d = \sqrt{a^2+b^2}$ and since both sides are equal we have $d = \sqrt{2 \cdot s^2}$ where $s$ is the side/distance between dowel and ball centers. 
+
+Since we have the diameters, we can calculate the distance $d$ with $d = \sqrt{2\cdot(\frac{bd}{2}+\frac{dd}{2})^2}$ where $bd$ and $dd$ are, respectively, *ball diameter* and *dowel diameter*. In the case of 10mm balls and 3mm dowels: 
 
 $d = \sqrt{2\cdot(\frac{10}{2}+\frac{3}{2})^2} \Rightarrow d= \sqrt{2\cdot(6.5)^2} \Rightarrow d = \sqrt{84.5} \Rightarrow d = 9.19238$
 
