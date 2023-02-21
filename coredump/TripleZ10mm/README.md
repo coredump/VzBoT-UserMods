@@ -17,7 +17,7 @@ Also removed some cosmetic stuff that made it more annoying to print for the sak
 |6|M3x30 Dowel|[Amazon US][5]|Can also be found on hardware stores/McMaster. Unfortunately because *math* it does need to be metric and exactly 3mm.
 |3|M3 inserts||For the cable chain holding part on the back arm.
 
-## Parts you already have it or may want to use
+## Parts you already have or may want to use
 
 
 |Quantity|Part|Link|Extra info|
